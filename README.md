@@ -19,3 +19,12 @@
 - exam05. String 타입
 - exam06. 이스케이프 문자 출력
 - exam07. float와 double 타입 
+- exam08. boolean 타입
+### 02-3 타입 변환
+- exam01. 자동 타입 변환
+- exam02. 강제 타입 변환
+- exam03. 정수 타입의 연산1
+- exam04. 정수 타입의 연산2
+- exam05. 연산식에서 자동 타입 변환
+- exam06. 문자열 결합 연산
+- exam07. 기본 타입과 문자열 간의 변환
